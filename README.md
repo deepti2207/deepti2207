@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepti2207
 - 👀 I’m interested in coding and also painting
-- 🌱 I’m currently learning java full stack
+- 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
